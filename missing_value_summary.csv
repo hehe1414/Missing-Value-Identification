@@ -1,0 +1,13 @@
+,missing_count,missing_percent,non_missing,data_type
+Cabin,687,77.1,204,object
+Age,177,19.87,714,float64
+Embarked,2,0.22,889,object
+PassengerId,0,0.0,891,int64
+Name,0,0.0,891,object
+Pclass,0,0.0,891,int64
+Survived,0,0.0,891,int64
+Sex,0,0.0,891,object
+Parch,0,0.0,891,int64
+SibSp,0,0.0,891,int64
+Fare,0,0.0,891,float64
+Ticket,0,0.0,891,object
